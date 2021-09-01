@@ -1,0 +1,1 @@
+We tell student that we'll follow the convention of database_db appication_app, then we don't in this project for the database.
