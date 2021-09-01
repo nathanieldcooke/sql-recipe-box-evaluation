@@ -15,5 +15,7 @@
 -- FROM ...
 -- WHERE ... (here you'll use the $1 parameter)
 
-
+SELECT id, title, created, updated
+FROM recipes
+WHERE id = $1
 -- YOUR CODE HERE
